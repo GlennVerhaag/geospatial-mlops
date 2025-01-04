@@ -1,0 +1,8 @@
+= MLOps for Geospatial Foundation Model Evaluation 
+This repository holds the digital appendix for my Master's Thesis @ Reutlingen University.
+
+Included in this repository are:
+
+* Systematic Literature Review (SLR) artifacts
+** link:literature-review/initial-search[Results of the initial search]
+** link:literature-review/snowballing[Snowballing results]
