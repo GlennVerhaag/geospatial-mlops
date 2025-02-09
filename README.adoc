@@ -1,6 +1,6 @@
 = MLOps for Geospatial Foundation Model Evaluation 
 
-This repository holds the digital appendix for my Master's Thesis @ Reutlingen University.
+This repository holds the digital appendix for my Master Thesis @ Reutlingen University.
 
 Included in this repository are:
 
